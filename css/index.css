@@ -1,0 +1,74 @@
+/*home starts here*/
+.home{
+        background:url('../images/background.png');
+        background-repeat: no-repeat;
+        background-size:cover;
+        width:100%;
+        height:100%;
+        -moz-background-size:cover;
+        background-attachment: fixed;
+}
+.adventure{
+        font-family:'Viaoda Libre', cursive;
+}
+.bar ul li a{
+        color:white;
+        text-decoration: none;
+}
+.bar ul li a:hover{
+        text-decoration-line:underline;
+        text-decoration-color:#fdcb6e;
+}
+/*home ends here */
+/*categories starts here */
+.categories{
+        background-image:url('../images/categories.png');
+        width:100vw;
+        height:20rem;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+/*categories end*/
+/*about starts*/
+.about{
+        background-image:url('../images/about.png');
+        width:100vw;
+        height:25rem;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+/*about ends*/
+/*contact strats*/
+.contact{
+        background-image:url('../images/contact.jpg');
+        width:100vw;
+        height:20rem;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;  
+}
+/*contact ends*/
+/*nature starts*/
+.nature{
+
+        background-image:url('../images/nature1.jpg');
+        width:100vw;
+        height:20rem;
+        background-position:bottom;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+/*nature ends*/
+/*photo starts*/
+.photo{
+
+        background-image:url('../images/photography1.jpg');
+        width:100vw;
+        height:20rem;
+        background-position:center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+/*photo ends*/
